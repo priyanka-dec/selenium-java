@@ -4,7 +4,4 @@ iam fine
 good evening
 good night
 welcome to git bash
-hello world
-
-
 
